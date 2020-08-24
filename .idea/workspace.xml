@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31287bd9-82c9-4e49-95b3-818ff9497937" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Gitplay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/margintest/.idea/13lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/margintest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/margintest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/margintest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/margintest/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/margintest/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/overflow/index1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/overflow/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/overflow/index2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/rainbow/rainbow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13lesson/rainbow/rainbow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css_float1/.idea/css_float1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css_float1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css_float1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css_float1/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css_float1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianshu_title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianshu_title.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gWkZeq5LlR54yjR5fm364GajdW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31287bd9-82c9-4e49-95b3-818ff9497937" name="Default Changelist" comment="" />
+      <created>1598237792132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598237792132</updated>
+      <workItem from="1598237793161" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

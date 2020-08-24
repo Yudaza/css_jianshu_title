@@ -1,0 +1,39 @@
+*{margin:0;padding:0;box-sizing: border-box;}
+.clearfix:after{
+    content:'';
+    display:block;
+    clear: both;
+}
+.logo{
+    display: inline-block;
+    float: left;
+}
+.logo > img{
+    height: 60px;
+    vertical-align: top;
+}
+.nav{
+    float: left;
+}
+ul,ol{
+    list-style: none;
+}
+ul > li{
+    float: left;
+    padding: 4px 0.4em;
+    line-height: 40px;
+}
+ul{
+    display: inline-block;
+    margin-top: 5px;
+    color: orange;
+}
+header{
+    border:3px solid orange;
+    float: left;
+    width: 100%;
+}
+.ss{
+    float: right;
+    margin-right:40px;
+}
